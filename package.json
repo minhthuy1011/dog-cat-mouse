@@ -1,0 +1,24 @@
+{
+  "name": "1-commit",
+  "version": "1.0.0",
+  "description": "- Check xem thư mục gồm những file nào bằng lệnh :     dir\r - Tạo thư mục Dev:    mkdir Dev\r - Tạo Dev/1-commit:    mkdir 1-commit\r - Sử dụng git trong project :     git init -> tạo ra thư mục C:/Users/Viss/Desktop/Nhi/code/git/Dev/1-commit/.git/\r This project is just a demo how to use git\r - git status\r - git add\r - git commit -m 'Add README file'",
+  "main": "Cat.js",
+  "dependencies": {
+    "calk": "0.0.1-security",
+    "chalk": "^5.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minhthuy1011/dog-cat-mouse.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minhthuy1011/dog-cat-mouse/issues"
+  },
+  "homepage": "https://github.com/minhthuy1011/dog-cat-mouse#readme"
+}
