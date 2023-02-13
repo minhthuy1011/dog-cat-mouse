@@ -20,5 +20,6 @@
   "bugs": {
     "url": "https://github.com/minhthuy1011/dog-cat-mouse/issues"
   },
-  "homepage": "https://github.com/minhthuy1011/dog-cat-mouse#readme"
+  "homepage": "https://github.com/minhthuy1011/dog-cat-mouse#readme",
+  "type": "commonjs"
 }
