@@ -7,3 +7,7 @@ This project is just a demo how to use git
 - git status
 - git add
 - git commit -m 'Add README file'
+- git log, show, diff
+- git reset --soft --mixed --hard
+- git revert
+- Tạo file .gitignore
